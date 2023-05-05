@@ -28,8 +28,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -105,6 +103,8 @@ java -cp bin/ Pharmacy
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@vinaykanse](https://github.com/VinayKanase)
+- [@rachitbarapatre]()
+- [@chandandeshmukh]()
 
 See also the list of [contributors](https://github.com/VinayKanase/OOPM-Mini-Project/contributors) who participated in this project.
 
@@ -112,6 +112,6 @@ See also the list of [contributors](https://github.com/VinayKanase/OOPM-Mini-Pro
 
 - References
   - https://www.w3schools.com/java/
-- Hat tip
+  <!-- - Hat tip
   - [@pargatdhanjal](https://github.com/Pargat-Dhanjal)
-  - [@tanvideshpande](https://github.com/Tanvi-15)
+  - [@tanvideshpande](https://github.com/Tanvi-15) -->
